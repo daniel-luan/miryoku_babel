@@ -382,6 +382,6 @@ U_NP,              U_NP,              "App",             "Space",           "Tab
 
 #define MIRYOKU_ALTERNATIVES_BUTTON \
 U_UND,             U_CUT,             U_CPY,             U_PST,             U_RDO,             U_RDO,             U_PST,             U_CPY,             U_CUT,             U_UND,             \
-"Meta",            "Alt",             "Ctrl",            "Shift",           U_NU,              U_NU,              "Shift",           "Ctrl",            "Alt",             "Meta",            \
+"Meta",            "Alt",             "Ctrl",            "Shift",           "Studio Unlock",   "Studio Unlock",   "Shift",           "Ctrl",            "Alt",             "Meta",            \
 U_HELD(U_UND),     U_CUT,             U_CPY,             U_PST,             U_RDO,             U_RDO,             U_PST,             U_CPY,             U_CUT,             U_HELD(U_UND),     \
 U_NP,              U_NP,              "Middle Button",   "Left Button",     "Right Button",    "Right Button",    "Left Button",     "Middle Button",   U_NP,              U_NP
